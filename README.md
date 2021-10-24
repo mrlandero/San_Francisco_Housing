@@ -55,6 +55,12 @@ The following image shows the responses, which list the installed packages.
 
 ![List hvplot and geoviews](list_hv_gv.png)
 
+### IMPORTANT
+
+Make sure to use hvPlot version 0.7.0 or later.
+
+### Troubleshooting Guide for Blank Plots
+
 
 
 
