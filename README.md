@@ -115,3 +115,24 @@ conda activate dev
 
 Install PyViz again by following the steps in the “Install the PyViz Ecosystem”.
 
+---
+
+## Usage
+
+To use the San Francisco HOusing application simply clone the repository and run the **san_francisco_housing.ipynb** file with:
+
+```python
+python san_francisco_housing.ipynb
+```
+
+The application will provide 4 important pieces of information that we can use to make our recommendations.
+
+First, we are going to generate an overlay line plot that helps us visualize the trend in the San Francisco housing market, in terms of prices per square foot vs the gross rent those properties generate. The point is to see which properties will have lower costs for our company to buy, and then rent for higher prices. We are trying to analyze which neighborhoods to focus on, and avoid, in order to generate the highest margins (profits).
+
+![Overlay Line Plot](overlay_line_plot.png)
+
+Next, we will generate two dataframes that are sorted by price per square foot and gross rent. This will let us know which neighborhoods have lower sales prices per square foot, but command higher rent per month.
+
+Sales Price Per Square Foot
+
+![Price/Square Foot](price_sqr_foot_sort.png)
