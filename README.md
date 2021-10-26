@@ -136,3 +136,18 @@ Next, we will generate two dataframes that are sorted by price per square foot a
 Sales Price Per Square Foot
 
 ![Price/Square Foot](price_sqr_foot_sort.png)
+
+Gross Rent
+
+![Gross Rent](gross_rent_sort.png)
+
+Finally, we will generate a GeoView Points Map Plot showing the neighborhoods categorized in 2 ways. First, the size of the point(circle) represents the sales price per square foot. The color bar on the right-hand side of the plot represents the gross rent per unit. This is an amazing plot to be able to quickly analyze which neighborhoods have a lower price/square foot compared to the amount of gross rent we can potentially generate.
+
+![GeoView Plot](geo_view_plot.png)
+
+Once you run the program, you should be able to answer the following analysis questions:
+
+How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
+
+What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
+
