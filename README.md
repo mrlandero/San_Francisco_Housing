@@ -151,3 +151,11 @@ How does the trend in rental income growth compare to the trend in sales prices?
 
 What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
 
+---
+
+## Contributors
+
+**Created by:** Tony Landero<br>
+**Email Adress:** mr.landero@gmail.com
+
+---
