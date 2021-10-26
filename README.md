@@ -159,3 +159,7 @@ What insights can you share with your company about the potential one-click, buy
 **Email Adress:** mr.landero@gmail.com
 
 ---
+
+## License
+
+MIT
